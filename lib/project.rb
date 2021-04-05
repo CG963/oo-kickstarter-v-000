@@ -1,5 +1,3 @@
-require 'pry'
-
 Class Project
   attr_accessor :name, :backers 
   
